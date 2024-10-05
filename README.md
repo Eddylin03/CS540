@@ -1,4 +1,3 @@
-# CS540
 # CS540 Introduction to Artificial Intelligence
 
 This repository contains my coursework for CS540: Introduction to Artificial Intelligence at the University of Wisconsin-Madison, Fall 2024.
@@ -31,7 +30,7 @@ This repository contains my coursework for CS540: Introduction to Artificial Int
 ## Projects
 
 * **Letter Frequency Analysis:** https://github.com/Eddylin03/CS540/blob/main/hw2/hw2.py - This script analyzes the frequency of letters in a given text file and uses Bayesian reasoning to determine if the text is more likely to be in English or Spanish. 
-* **[Project 2 Name]:** [Link to project 2 folder/files] - [Brief description of project 2]
+* **Facial Recognition with Eigenfaces::** https://github.com/Eddylin03/CS540/blob/main/hw3/Demonstration.ipynb - Implemented a facial recognition system using Principal Component Analysis (PCA) to identify individuals from a dataset of facial images.
 * **[...and so on...]** 
 
 
