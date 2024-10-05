@@ -27,15 +27,10 @@ This repository contains my coursework for CS540: Introduction to Artificial Int
 * Understand basic elements of Reinforcement Learning.
 * Consider the applications and ethics of Artificial Intelligence and Machine Learning in real-world settings.
 
-## Assignments
-
-* **[Assignment 1 Name]:** [Link to assignment 1 folder/files] - [Brief description of assignment 1]
-* **[Assignment 2 Name]:** [Link to assignment 2 folder/files] - [Brief description of assignment 2]
-* **[...and so on...]** 
 
 ## Projects
 
-* **[Project 1 Name]:** [Link to project 1 folder/files] - [Brief description of project 1]
+* **Letter Frequency Analysis:** https://github.com/Eddylin03/CS540/blob/main/hw2/hw2.py - This script analyzes the frequency of letters in a given text file and uses Bayesian reasoning to determine if the text is more likely to be in English or Spanish. 
 * **[Project 2 Name]:** [Link to project 2 folder/files] - [Brief description of project 2]
 * **[...and so on...]** 
 
