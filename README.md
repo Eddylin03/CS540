@@ -30,7 +30,8 @@ This repository contains my coursework for CS540: Introduction to Artificial Int
 ## Projects
 
 * **Letter Frequency Analysis:** https://github.com/Eddylin03/CS540/blob/main/hw2/hw2.py - This script analyzes the frequency of letters in a given text file and uses Bayesian reasoning to determine if the text is more likely to be in English or Spanish. 
-* **Facial Recognition with Eigenfaces::** https://github.com/Eddylin03/CS540/blob/main/hw3/Demonstration.ipynb - Implemented a facial recognition system using Principal Component Analysis (PCA) to identify individuals from a dataset of facial images.
+* **Facial Recognition with Eigenfaces:** https://github.com/Eddylin03/CS540/blob/main/hw3/Demonstration.ipynb - Implemented a facial recognition system using Principal Component Analysis (PCA) to identify individuals from a dataset of facial images.
+* **Hierarchical Clustering of Socioeconomic Data:** https://github.com/Eddylin03/CS540/blob/main/hw4/hw4.py - Applied hierarchical agglomerative clustering (HAC) to analyze socioeconomic indicators from various countries, visualizing country clusters based on socioeconomic profiles.
 * **[...and so on...]** 
 
 
