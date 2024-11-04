@@ -32,6 +32,8 @@ This repository contains my coursework for CS540: Introduction to Artificial Int
 * **Letter Frequency Analysis:** https://github.com/Eddylin03/CS540/blob/main/hw2/hw2.py - This script analyzes the frequency of letters in a given text file and uses Bayesian reasoning to determine if the text is more likely to be in English or Spanish. 
 * **Facial Recognition with Eigenfaces:** https://github.com/Eddylin03/CS540/blob/main/hw3/Demonstration.ipynb - Implemented a facial recognition system using Principal Component Analysis (PCA) to identify individuals from a dataset of facial images.
 * **Hierarchical Clustering of Socioeconomic Data:** https://github.com/Eddylin03/CS540/blob/main/hw4/hw4.py - Applied hierarchical agglomerative clustering (HAC) to analyze socioeconomic indicators from various countries, visualizing country clusters based on socioeconomic profiles.
+* **Linear Regression on Lake Mendota Ice:** https://github.com/Eddylin03/CS540/blob/main/hw5/hw5.py - Implemented a linear regression model to analyze historical ice coverage days on Lake Mendota. Tasks included dataset curation, data normalization, closed-form solution calculation, gradient descent optimization, and prediction for future ice coverage based on trends.
+* **Neural Network with PyTorch:** https://github.com/Eddylin03/CS540/blob/main/hw6/intro_pytorch.py - Developed a basic neural network in PyTorch to classify images from the FashionMNIST dataset. Implemented data loading, model building, training, evaluation, and individual image prediction to familiarize with PyTorch's capabilities.
 * **[...and so on...]** 
 
 
@@ -39,8 +41,12 @@ This repository contains my coursework for CS540: Introduction to Artificial Int
 
 (Add this section as you start working on assignments)
 * Python
-* [List any libraries you use (e.g., scikit-learn, TensorFlow, PyTorch)] 
-* [Any other tools or technologies]
+* NumPy - For numerical operations, particularly useful for matrix manipulations in linear regression and gradient descent.
+* Matplotlib - Used for visualizing data plots, loss plots, and other figures in assignments.
+* PyTorch - Utilized for building, training, and evaluating neural networks in deep learning assignments.
+* Pandas - Employed for data handling and cleaning, especially in preprocessing datasets.
+* Torchvision - Part of PyTorch, used to load and transform image data (like FashionMNIST) for neural network training.
+
 
 ## Notes
 
