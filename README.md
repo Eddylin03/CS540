@@ -34,18 +34,25 @@ This repository contains my coursework for CS540: Introduction to Artificial Int
 * **Hierarchical Clustering of Socioeconomic Data:** https://github.com/Eddylin03/CS540/blob/main/hw4/hw4.py - Applied hierarchical agglomerative clustering (HAC) to analyze socioeconomic indicators from various countries, visualizing country clusters based on socioeconomic profiles.
 * **Linear Regression on Lake Mendota Ice:** https://github.com/Eddylin03/CS540/blob/main/hw5/hw5.py - Implemented a linear regression model to analyze historical ice coverage days on Lake Mendota. Tasks included dataset curation, data normalization, closed-form solution calculation, gradient descent optimization, and prediction for future ice coverage based on trends.
 * **Neural Network with PyTorch:** https://github.com/Eddylin03/CS540/blob/main/hw6/intro_pytorch.py - Developed a basic neural network in PyTorch to classify images from the FashionMNIST dataset. Implemented data loading, model building, training, evaluation, and individual image prediction to familiarize with PyTorch's capabilities.
+* **LeNet on MiniPlaces Dataset:** https://github.com/Eddylin03/CS540/blob/main/hw7/demo.ipynb - Implemented the LeNet-5 convolutional neural network architecture to perform scene recognition on the MiniPlaces dataset. Built a custom CNN model with two convolutional layers and three fully connected layers, explored various hyperparameter configurations including batch size and learning rate, and analyzed model performance across different training settings.
+
+* **A* Search for N-Tile Puzzle:** https://github.com/Eddylin03/CS540/blob/main/hw8/Demo.py - Developed an A* search implementation to solve variants of the 8-tile sliding puzzle with multiple empty spaces. Implemented Manhattan distance heuristic for state evaluation, dynamic successor state generation, and efficient priority queue-based pathfinding. The solution handles various puzzle configurations (6-tile, 7-tile, etc.) and includes comprehensive state validation.
 * **[...and so on...]** 
 
 
 ## Technologies Used 
 
-(Add this section as you start working on assignments)
 * Python
 * NumPy - For numerical operations, particularly useful for matrix manipulations in linear regression and gradient descent.
 * Matplotlib - Used for visualizing data plots, loss plots, and other figures in assignments.
 * PyTorch - Utilized for building, training, and evaluating neural networks in deep learning assignments.
 * Pandas - Employed for data handling and cleaning, especially in preprocessing datasets.
 * Torchvision - Part of PyTorch, used to load and transform image data (like FashionMNIST) for neural network training.
+* heapq - Python's built-in heap queue algorithm implementation, used for priority queue in A* search puzzle solving.
+* tqdm - Progress bar library for monitoring training progress in neural network implementations.
+* shadcn/ui - React component library utilized for building modern user interfaces in web-based demonstrations.
+* torch.nn - PyTorch's neural network modules, essential for implementing LeNet architecture.
+* torch.optim - PyTorch's optimization algorithms for training neural networks with different learning rates.
 
 
 ## Notes
